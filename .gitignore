@@ -14,3 +14,12 @@ node_modules
 
 # .DS_Store is only for Mac users
 **/.DS_Store
+
+# README.md file is not required, but can be helpful
+# README files usually contain information about what the project does
+README.md
+
+# pnpm-lock file contains exact version of all dependencies used in a project
+# This will ensure that all package versions are installed across different environments
+# This file should never be changed or updated by you
+pnpm-lock.yaml
